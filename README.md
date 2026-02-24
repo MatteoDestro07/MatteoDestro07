@@ -4,13 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Matteo%20Destro&fontSize=70&animation=fadeIn" alt="Header" />
 </p>
 
-🎓 **Istruzione:** Studente di Informatica e Telecomunicazioni presso l'Istituto Vallauri.
-
-💻 **Passione:** Sviluppo software, web design e architetture di rete.
-
-🚀 **Focus Attuale:** Perfezionamento in C#, PHP e JavaScript per la creazione di applicazioni moderne e scalabili.
-
-📚 **Obiettivo GitHub:** Documentare la mia crescita accademica e condividere progetti personali innovativi.
+🎓 **Istruzione:** Studente di Informatica e Telecomunicazioni presso l'Istituto Vallauri.<br>💻 **Passione:** Sviluppo software, web design e architetture di rete.<br>🚀 **Focus Attuale:** Perfezionamento in C#, PHP e JavaScript per la creazione di applicazioni moderne e scalabili.<br>📚 **Obiettivo GitHub:** Documentare la mia crescita accademica e condividere progetti personali innovativi.
 
 ---
 
