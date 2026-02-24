@@ -5,8 +5,11 @@
 </p>
 
 🎓 **Istruzione:** Studente di Informatica e Telecomunicazioni presso l'Istituto Vallauri.
+
 💻 **Passione:** Sviluppo software, web design e architetture di rete.
+
 🚀 **Focus Attuale:** Perfezionamento in C#, PHP e JavaScript per la creazione di applicazioni moderne e scalabili.
+
 📚 **Obiettivo GitHub:** Documentare la mia crescita accademica e condividere progetti personali innovativi.
 
 ---
